@@ -3,7 +3,7 @@
 Copyright © 2026 SQL Server Expert. Todos os direitos reservados.
 
 Este repositório contém scripts, exemplos de código e materiais de apoio
-utilizados no **Workshop SQL Server Expert 4a Edição**, desenvolvido e ministrado pelo
+utilizados no **Workshop SQL Server Expert 6a Edição**, desenvolvido e ministrado pelo
 Prof. Landry Duailib.
 
 O conteúdo deste repositório é protegido pela legislação aplicável de
@@ -17,7 +17,7 @@ direitos autorais e propriedade intelectual.
 - executar os exemplos em ambientes próprios de estudo, laboratório ou trabalho;
 - adaptar trechos dos scripts para uso pessoal ou profissional interno;
 - citar pequenos trechos do material, desde que sejam mantidos os créditos ao
-  autor e ao **Workshop SQL Server Expert 4a Edição**;
+  autor e ao **Workshop SQL Server Expert 6a Edição**;
 - criar forks por meio dos recursos disponibilizados pelo GitHub, exclusivamente
   para estudo, experimentação ou colaboração autorizada.
 
@@ -59,7 +59,7 @@ demais materiais do repositório.
 
 Ao enviar uma contribuição, o colaborador autoriza a SQL Server Expert a
 utilizá-la, modificá-la, incorporá-la e distribuí-la como parte deste
-repositório e dos materiais relacionados ao **Workshop SQL Server Expert 4a Edição**t.
+repositório e dos materiais relacionados ao **Workshop SQL Server Expert 6a Edição**t.
 
 ## 5. Ausência de garantias
 
@@ -76,7 +76,7 @@ laboratório antes de qualquer utilização em produção.
 
 A disponibilização pública destes scripts não concede acesso às videoaulas,
 slides, laboratórios guiados, projetos completos, exercícios, soluções,
-simulados, suporte ou demais materiais exclusivos do **Workshop SQL Server Expert 4a Edição**.
+simulados, suporte ou demais materiais exclusivos do **Workshop SQL Server Expert 6a Edição**.
 
 
 ## 7. Solicitações de autorização
@@ -87,5 +87,5 @@ licenciamento do material devem ser encaminhadas à SQL Server Expert em: profla
 ---
 
 **SQL Server Expert**  
-**Workshop SQL Server Expert 4a Edição**
+**Workshop SQL Server Expert 6a Edição**
 Copyright © 2026. Todos os direitos reservados.
