@@ -12,10 +12,20 @@ Em seguida crie um arquivo sem extensão chamado "Caddyfile." na mesma pasta ond
 ```text
 {
   admin localhost:2019
+
+  pki {
+    ca local {
+      intermediate_lifetime 52560h
+    }
+  }
 }
 
 localhost, 127.0.0.1 {
-  tls internal
+  tls {
+    issuer internal {
+      lifetime 43800h
+    }
+  }
 
   @ollama path /api/* /v1/*
   reverse_proxy 127.0.0.1:11434 {
