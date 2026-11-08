@@ -32,6 +32,8 @@ Cor nvarchar(100) NULL,
 Preco money NULL)
 go
 
+set nocount on
+
 -- Carga de dados inicial
 INSERT dbo.Produto_LIKE 
 (Produto_Codigo, Produto, Modelo, Descricao, SubCategoria, Categoria, Cor, Preco)
